@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="HackerRank">
+      <UniqueIdentifier>{3e435a8b-ddca-4261-9242-c6f3ac18d394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LeetCode">
+      <UniqueIdentifier>{cb5e671e-5390-4148-8fb5-a18b0ab2e1de}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Strings - Making Anagrams.cpp">
+      <Filter>HackerRank</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash Tables - Ransom Note.cpp">
+      <Filter>HackerRank</Filter>
+    </ClCompile>
+    <ClCompile Include="Template.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Strings - Alternating Characters.cpp">
+      <Filter>HackerRank</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash Tables - Two Strings.cpp">
+      <Filter>HackerRank</Filter>
+    </ClCompile>
+    <ClCompile Include="Recursion - Fibonacci Numbers.cpp">
+      <Filter>HackerRank</Filter>
+    </ClCompile>
+    <ClCompile Include="1480 - Running Sum of 1d Array.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="1431 - Kids With the Greatest Number of Candies.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="167 - Richest Customer Wealth.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1773 - Count Items Matching a Rule.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="1678 - Goal Parser Interpretation.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="1614 - Maximum Nesting Depth of the Parentheses.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+    <ClCompile Include="1512 - Number of Good Pairs.cpp">
+      <Filter>LeetCode</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
